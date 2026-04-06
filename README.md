@@ -1,6 +1,6 @@
 ## Goal
  
-Gain automation and scripting skills required in offensive security.
+To gain automation and scripting skills required in offensive security.
  
 ## Structure
  
