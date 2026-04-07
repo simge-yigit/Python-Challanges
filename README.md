@@ -14,7 +14,6 @@ scripts/    # Automation & scripting practice
 Each problem includes:
 - Solution in Python
 - Explanation of the approach
-- Time & space complexity analysis
  
 ## Progress
  
