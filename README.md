@@ -27,9 +27,6 @@ Each problem includes:
  
 Arrays · Strings · Hashmaps · Recursion · Dynamic Programming · File I/O · Regex · Networking · CLI Scripting
 
-## Coding Profiles 
-- [LeetCode](https://leetcode.com/u/simge-yigit)
-- [HackerRank](https://www.hackerrank.com/profile/simi_yigit)
 
 ## Resources
 - [Automate the Boring Stuff](https://automatetheboringstuff.com/)
